@@ -69,7 +69,8 @@ The retail chain faced three main challenges:
 
 **DAX Patterns Used:** `AVERAGEX`, `SUMX`, `IF FILTER`, `VAR`, `DIVIDE`, `ISBLANK` for safe, efficient, and readable calculations.
 
-<img width="900" height="600" alt="power_BI" src="https://github.com/user-attachments/assets/6e928689-daec-40ba-9cd0-35d4f41cb643" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/f8c305ef-efaa-4964-a726-fce7c38ef392" />
+
 
 
 ---
